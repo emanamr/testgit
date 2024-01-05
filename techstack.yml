@@ -2,7 +2,7 @@ repo_name: emanamr/testgit
 report_id: 6945a764ff7093e60aac77dcd41e1218
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-02T09:36:41+00:00'
+timestamp: '2024-01-05T08:12:23+00:00'
 requested_by: emanamr
 provider: github
 branch: master
@@ -16,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/emanamr/testgit
   detection_source: Repo Metadata
